@@ -18,6 +18,29 @@
         End If
         btn1.Enabled = False
 
+        Dim myw As String = "X"
+        If btn1.Text = myw And btn2.Text = myw And btn3.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn1.Text = myw And btn5.Text = myw And btn9.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn1.Text = myw And btn4.Text = myw And btn7.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        End If
+
+        myw = "O"
+        If btn1.Text = myw And btn2.Text = myw And btn3.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn1.Text = myw And btn5.Text = myw And btn9.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn1.Text = myw And btn4.Text = myw And btn7.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        End If
 
     End Sub
 
