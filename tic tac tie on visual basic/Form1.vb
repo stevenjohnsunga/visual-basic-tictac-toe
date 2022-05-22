@@ -72,6 +72,26 @@
             count = count + 1
         End If
         btn2.Enabled = False
+
+        Dim myw As String = "X"
+        If btn2.Text = myw And btn1.Text = myw And btn3.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn2.Text = myw And btn5.Text = myw And btn8.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+
+        End If
+
+        myw = "O"
+        If btn2.Text = myw And btn1.Text = myw And btn3.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn2.Text = myw And btn5.Text = myw And btn8.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+
+        End If
     End Sub
 
     Private Sub btn3_Click(sender As Object, e As EventArgs) Handles btn3.Click
@@ -89,6 +109,31 @@
             count = count + 1
         End If
         btn3.Enabled = False
+
+        Dim myw As String = "X"
+        If btn3.Text = myw And btn2.Text = myw And btn1.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn3.Text = myw And btn5.Text = myw And btn7.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn3.Text = myw And btn6.Text = myw And btn9.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        End If
+
+        myw = "O"
+        If btn3.Text = myw And btn2.Text = myw And btn1.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn3.Text = myw And btn5.Text = myw And btn7.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn3.Text = myw And btn6.Text = myw And btn9.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        End If
+
     End Sub
 
     Private Sub btn4_Click(sender As Object, e As EventArgs) Handles btn4.Click
@@ -106,6 +151,25 @@
             count = count + 1
         End If
         btn4.Enabled = False
+
+        Dim myw As String = "X"
+        If btn4.Text = myw And btn1.Text = myw And btn7.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn4.Text = myw And btn5.Text = myw And btn6.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        End If
+
+        myw = "O"
+        If btn4.Text = myw And btn1.Text = myw And btn7.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn4.Text = myw And btn5.Text = myw And btn6.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        End If
+
     End Sub
 
     Private Sub btn5_Click(sender As Object, e As EventArgs) Handles btn5.Click
@@ -123,6 +187,37 @@
             count = count + 1
         End If
         btn5.Enabled = False
+
+        Dim myw As String = "X"
+        If btn5.Text = myw And btn1.Text = myw And btn9.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn5.Text = myw And btn3.Text = myw And btn7.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn5.Text = myw And btn2.Text = myw And btn8.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn5.Text = myw And btn6.Text = myw And btn4.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        End If
+
+        myw = "O"
+        If btn5.Text = myw And btn1.Text = myw And btn9.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn5.Text = myw And btn3.Text = myw And btn7.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn5.Text = myw And btn2.Text = myw And btn8.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        ElseIf btn5.Text = myw And btn6.Text = myw And btn4.Text = myw Then
+            MessageBox.Show("Player " + myw + " won")
+            btnreset.PerformClick()
+        End If
+
     End Sub
 
     Private Sub btn6_Click(sender As Object, e As EventArgs) Handles btn6.Click
