@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\bin\Debug\net6.0-windows\tic tac tie on visual basic.exe
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\bin\Debug\net6.0-windows\tic tac tie on visual basic.deps.json
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\bin\Debug\net6.0-windows\tic tac tie on visual basic.runtimeconfig.json
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\bin\Debug\net6.0-windows\tic tac tie on visual basic.dll
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\bin\Debug\net6.0-windows\ref\tic tac tie on visual basic.dll
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\bin\Debug\net6.0-windows\tic tac tie on visual basic.pdb
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic tac tie on visual basic.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic_tac_tie_on_visual_basic.Form1.resources
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic tac tie on visual basic.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic tac tie on visual basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic tac tie on visual basic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic tac tie on visual basic.AssemblyInfo.vb
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic tac tie on visual basic.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic tac tie on visual basic.dll
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\ref\tic tac tie on visual basic.dll
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic tac tie on visual basic.pdb
+C:\Users\User\source\repos\tic tac tie on visual basic\tic tac tie on visual basic\obj\Debug\net6.0-windows\tic tac tie on visual basic.genruntimeconfig.cache
