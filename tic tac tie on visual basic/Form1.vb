@@ -42,6 +42,8 @@
             btnreset.PerformClick()
         End If
 
+
+
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -383,5 +385,14 @@
         btn7.Enabled = True
         btn8.Enabled = True
         btn9.Enabled = True
+    End Sub
+
+    Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles Button1.Click
+        If count < 9 Then
+            MessageBox.Show("game is winnable")
+        Else
+            MessageBox.Show("game is draw")
+            btnreset.PerformClick()
+        End If
     End Sub
 End Class
